@@ -56,7 +56,7 @@ C) NOMBRE TIPO PODER ATAQUE
     #! 6) - tipo de los pokemones del tipo que mas pokemones posea. 
     #! 7) - tipo de los pokemones del tipo que menos pokemones posea. 
     #! 8) - Listado de todos los pokemones cuyo poder de pelea supere el valor promedio.
-    #! 9) - el promedio de poder de todos los pokemones de tipo Electrico.
+    #! 9) - el promedio de poder d todos los pokemones de tipo Electrico.
    
 '''
 
